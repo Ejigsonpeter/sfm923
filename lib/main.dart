@@ -59,6 +59,13 @@ class MyHomePage extends StatelessWidget{
 bottomNavigationBar : new BottomNavigationBar(items:[
           new BottomNavigationBarItem(icon : new Icon(Icons.add_shopping_cart),
           title: new Text('shopping')),
+          new BottomNavigationBarItem(icon : new Icon(Icons.add_shopping_cart),
+          title: new Text('shopping')),
+          new BottomNavigationBarItem(icon : new Icon(Icons.add_shopping_cart),
+          title: new Text('shopping')),
+          new BottomNavigationBarItem(icon : new Icon(Icons.add_shopping_cart),
+          title: new Text('shopping')),
+
          
           ]
 ),
